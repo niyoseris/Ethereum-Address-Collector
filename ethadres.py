@@ -12,7 +12,7 @@ https://niyo.link
 v1. March 2024
 
 
-thank you ChatGPT
+special thanks to ChatGPT
 """
 )
 
